@@ -2,7 +2,6 @@
 
 ## Starting Project
 ```
-cd client
 npm start
 ```
 
